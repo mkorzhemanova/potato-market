@@ -1,7 +1,1 @@
-{
-  "id": "id",
-  "potatoCount": 44,
-  "supplier": "Yunnan Spices",
-  "packageDateTime": "2019-09-11T22:11:11.000000011Z",
-  "price": 33.1
-}
+{"id":"id","potatoCount":44,"supplier":"Yunnan Spices","packageDateTime":"2019-09-11T22:11:11.000000011+03:00","price":33.1}

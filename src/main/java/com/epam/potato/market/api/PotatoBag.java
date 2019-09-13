@@ -1,4 +1,4 @@
-package com.epam.potato.api;
+package com.epam.potato.market.api;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import io.dropwizard.validation.OneOf;
